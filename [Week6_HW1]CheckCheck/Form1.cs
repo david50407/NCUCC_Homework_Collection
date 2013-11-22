@@ -34,6 +34,7 @@ namespace _Week6_HW1_CheckCheck
                 return;
 
             bCheckChecking = true;
+            iCheckCheckingTime = 0;
             this.button_Start.Text = "5";
             foreach (CheckBox ch in this.fLP_checkcheck.Controls)
             {
