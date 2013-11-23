@@ -19,6 +19,7 @@ namespace _Week6_HW3_Game_of_Life
             this.FlatAppearance.BorderColor = SystemColors.ButtonShadow;
             this.FlatAppearance.MouseOverBackColor = Color.LightSkyBlue;
             this.FlatAppearance.MouseDownBackColor = Color.DarkCyan;
+            SetStyle(ControlStyles.Selectable, false);
         }
         public int Row { get; set; }
         public int Col { get; set; }
