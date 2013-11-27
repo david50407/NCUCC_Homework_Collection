@@ -136,7 +136,6 @@
             this.label_pos.Name = "label_pos";
             this.label_pos.Size = new System.Drawing.Size(181, 29);
             this.label_pos.TabIndex = 4;
-            this.label_pos.Text = "label1";
             this.label_pos.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label_B
@@ -147,7 +146,6 @@
             this.label_B.Name = "label_B";
             this.label_B.Size = new System.Drawing.Size(181, 29);
             this.label_B.TabIndex = 3;
-            this.label_B.Text = "label1";
             this.label_B.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label_G
@@ -158,7 +156,6 @@
             this.label_G.Name = "label_G";
             this.label_G.Size = new System.Drawing.Size(181, 29);
             this.label_G.TabIndex = 2;
-            this.label_G.Text = "label1";
             this.label_G.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label_R
@@ -169,7 +166,6 @@
             this.label_R.Name = "label_R";
             this.label_R.Size = new System.Drawing.Size(181, 29);
             this.label_R.TabIndex = 1;
-            this.label_R.Text = "label1";
             this.label_R.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // panel_color

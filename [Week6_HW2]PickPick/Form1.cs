@@ -26,26 +26,27 @@ namespace _Week6_HW2_PickPick
             bitmap = new Bitmap(this.pB_main.BackgroundImage);
             this.pB_zoom.Size = new Size(bitmap.Width * iZoom, bitmap.Height * iZoom);
             this.panel_zoom.Hide();
-            this.ClientSize = new Size(pB_main.Width + panel_side.Width , pB_main.Height);
+            this.ClientSize = new Size(pB_main.Width + panel_side.Width, pB_main.Height);
         }
 
         private void Form1_MouseMove(object sender, MouseEventArgs e)
         {
             this.panel_zoom.Show();
-            if (e.X < 0 || e.X > bitmap.Width || e.Y < 0 || e.Y > bitmap.Height)
+            if (e.X < 0 || e.X >= bitmap.Width || e.Y < 0 || e.Y >= bitmap.Height)
             {
                 this.panel_zoom.Hide();
                 this.pB_main.Refresh();
+                this.Refresh();
                 return;
             }
 
             int pX = Math.Max(0, Math.Min(this.pB_main.Width - this.panel_zoom.Width, e.X - this.panel_zoom.Width / 2)),
                 pY = Math.Max(0, Math.Min(this.pB_main.Height - this.panel_zoom.Height, e.Y - this.panel_zoom.Height / 2));
-            int pOX = pX - (e.X - this.panel_zoom.Width  / 2),
+            int pOX = pX - (e.X - this.panel_zoom.Width / 2),
                 pOY = pY - (e.Y - this.panel_zoom.Height / 2);
             this.panel_zoom.Location = new Point(pX, pY);
 
-            int zX = (int)(-iZoom * e.X + iZoom / 2 + this.panel_zoom.Width  / 2 - pOX),
+            int zX = (int)(-iZoom * e.X + iZoom / 2 + this.panel_zoom.Width / 2 - pOX),
                 zY = (int)(-iZoom * e.Y + iZoom / 2 + this.panel_zoom.Height / 2 - pOY);
             this.pB_zoom.Location = new Point(zX, zY);
 
@@ -55,7 +56,7 @@ namespace _Week6_HW2_PickPick
                 iOldEY = e.Y;
                 Color color = bitmap.GetPixel(e.X, e.Y);
                 this.label_color.Text = String.Format("({0}, {1}, {2})", color.R, color.G, color.B);
-                if ((e.X > this.pB_main.Width - this.label_color.Width - 5) && 
+                if ((e.X > this.pB_main.Width - this.label_color.Width - 5) &&
                     (e.Y > this.pB_main.Height - this.label_color.Height - 5))
                     this.label_color.Location = new Point(0,
                         this.panel_zoom.Height - this.label_color.Height);
