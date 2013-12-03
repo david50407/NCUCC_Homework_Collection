@@ -1,0 +1,11 @@
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\bin\Debug\Client.exe.config
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\bin\Debug\Client.exe
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\bin\Debug\Client.pdb
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\bin\Debug\ClassLibrary.dll
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\bin\Debug\ClassLibrary.pdb
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\obj\Debug\Client.Form1.resources
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\obj\Debug\Client.exe
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Client\obj\Debug\Client.pdb
