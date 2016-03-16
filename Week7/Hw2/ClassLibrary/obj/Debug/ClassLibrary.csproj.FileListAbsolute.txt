@@ -1,0 +1,6 @@
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\ClassLibrary\obj\Debug\ClassLibrary.DataPanel.resources
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.Cache
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\ClassLibrary\obj\Debug\ClassLibrary.pdb

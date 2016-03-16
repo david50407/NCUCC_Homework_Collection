@@ -1,0 +1,11 @@
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\bin\Debug\Server.exe.config
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\bin\Debug\Server.exe
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\bin\Debug\Server.pdb
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\bin\Debug\ClassLibrary.dll
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\bin\Debug\ClassLibrary.pdb
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\obj\Debug\Server.Form1.resources
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\obj\Debug\Server.exe
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\obj\Debug\Server.pdb
+D:\Davy\code\vs\NCUCC\[Week7_HW2]UDP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
