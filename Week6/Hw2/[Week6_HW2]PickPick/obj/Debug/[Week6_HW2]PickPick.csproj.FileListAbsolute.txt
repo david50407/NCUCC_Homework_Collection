@@ -1,0 +1,10 @@
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\bin\Debug\[Week6_HW2]PickPick.exe.config
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\bin\Debug\[Week6_HW2]PickPick.exe
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\bin\Debug\[Week6_HW2]PickPick.pdb
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\_Week6_HW2_PickPick.Form1.resources
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\_Week6_HW2_PickPick.Properties.Resources.resources
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\_Week6_HW2_PickPick.Resource1.resources
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\[Week6_HW2]PickPick.csproj.GenerateResource.Cache
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\[Week6_HW2]PickPick.exe
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\[Week6_HW2]PickPick.pdb
+D:\Davy\code\vs\NCUCC\[Week6_HW2]PickPick\[Week6_HW2]PickPick\obj\Debug\[Week6_HW2]PickPick.csprojResolveAssemblyReference.cache
